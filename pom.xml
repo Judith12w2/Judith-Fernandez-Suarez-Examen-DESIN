@@ -40,13 +40,13 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>interfaz.InterfazJenkins</mainClass>
+							<mainClass>Main.Main</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
-					<finalName>interfazExamen</finalName>
+					<finalName>Main</finalName>
 				</configuration>
 				<executions>
 					<execution>
